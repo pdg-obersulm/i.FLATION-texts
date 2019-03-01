@@ -1,0 +1,1 @@
+Bei dem momentanen Zwei-Prozent-Ziel Europas hängt es vom Vertag, den der Kreditnehmer abgeschlossen hat ab, ob es sich für diesen lohnt. Wenn der Kreditzins geringer als die gegebene Inflationsrate ist, verlieren die Rückzahlungen an Wert woraus der Kreditnehmer einen Vorteil zieht. Anderenfalls ist das Gegenteil der Fall.

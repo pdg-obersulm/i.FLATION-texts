@@ -1,0 +1,16 @@
+{
+	"scenarios": [{
+		"name": "Zwei-Prozent-Ziel der EZB",
+		"icon": "mdi-numeric-2",
+		"default": true,
+		"slug": "zwei-prozent-ziel"
+	}, {
+		"name": "Deflation",
+		"icon": "mdi-trending-down"
+	}, {
+		"name": "Ungebremste Inflation",
+		"icon": "mdi-trending-up",
+		"slug": "ungebremste-inflation"
+	}],
+	"agents": ["EZB", "Konsument", "Kreditgeber", "Kreditnehmer", "Sparer", "Staat", "Unternehmen"]
+}

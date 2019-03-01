@@ -1,0 +1,1 @@
+﻿Deflation ist für Sparer die beste Situation, dies lässt sich durch die Wertzunahme des Geldes begründen. Da der Sparer den Großteil seines Geldes auf der Bank anlegt und die Zinsen auf Konten gleichbleiben aber die Preise für Güter und Dienstleistungen durch die Deflation sinken steigt die Kaufkraft des Sparers.

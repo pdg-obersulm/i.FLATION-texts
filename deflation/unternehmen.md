@@ -1,0 +1,3 @@
+Bei einer Deflation können Unternehmen nicht mehr kostendeckend und gewinnbringend produzieren, da sie zum einen ihre Güterpreise aufgrund der geringen Geldmenge senken müssen und zum anderen durch den mangelnden Konsum plötzlich weniger verkauft wird. Um ihre Kosten zu senken, nutzen Unternehmen zum Beispiel befristete Arbeitsverträge oder Probezeiten zur Kündigung von Arbeitnehmern.
+
+Die Schuldenlast kleinerer Unternehmen wächst stetig, sodass sie auf einmal viel mehr ihrer Güter verkaufen müssen, um die Schulden zu begleichen. 

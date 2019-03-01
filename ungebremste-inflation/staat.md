@@ -1,0 +1,1 @@
+﻿Der Staat kann von einer ungebremsten Inflation profitieren. Wenn die Inflationsrate höher ist als der Zins, zu welchem er sich Geld geliehen hat, verschwinden seine aufgenommenen Schulden. Bei einer Hyperinflation besteht jedoch das Risiko, dass der Staat zusammenbricht. Er muss in diesem Fall zum Beispiel eine neue Währung einführen, um die Wirtschaft wieder zu stabilisieren.

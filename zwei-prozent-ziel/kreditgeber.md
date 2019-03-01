@@ -1,0 +1,1 @@
+Bei einer Inflation, welche bei zwei Prozent liegt werden wieder mehr Kredite aufgenommen, da sie den Schuldnern eine „Zukunftssicherheit" suggeriert.

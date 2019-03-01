@@ -1,0 +1,1 @@
+Bei einer ungebremsten Inflation, muss die EZB versuchen die Inflationsrate wieder zu senken. Dies geschieht durch das Senken des Preisniveaus und durch das anheben des Leitzins, um der Bevölkerung einen Anreiz zugeben, mehr Geld bei den Banken anzulegen. 

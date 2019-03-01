@@ -1,0 +1,1 @@
+Bei einer Inflation von zwei Prozent profitiert der deutsche Staat. Durch die niedrige Inflationsrate wird er von seinen Schulden entlastet, da das Geld an Wert verliert. Zudem profitiert er von einer stabilen Wirtschaft ohne große Schwankungen, die Sicherheit gibt.

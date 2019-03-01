@@ -1,0 +1,1 @@
+Bei der ungebremsten Inflation vergrößert sich die Geldmenge, die im Umlauf ist, stark. Dadurch sinkt der Wert des Geldes rapide. Um dies auszugleichen wird die Geldmenge weiter vergrößert, was den Prozess verstärkt. Somit bildet sich eine Spirale des Wertverlusts.

@@ -1,0 +1,1 @@
+Das Zwei-Prozent-Ziel ist laut EZB der Optimalzustand, an welchem sich die negativen Auswirkungen der Inflation und der Deflation nur wenig bis gar nicht zeigen. Somit überwiegen, laut der EZB, die für die Wirtschaft positiven Effekte.

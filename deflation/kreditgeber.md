@@ -1,0 +1,1 @@
+﻿Zunächst ist die Situation vorteilhaft für Banken, da das bei der Bank angelegte Geld an Wert zunimmt. Jedoch hat eine Deflation auf lange Sicht negative Auswirkungen, weil Güter und Dienstleistungen an Wert verlieren und Kreditnehmer kleinere Kredite aufnehmen müssen um diese zu finanzieren.

@@ -1,0 +1,1 @@
+Bei der Deflation wird viel gespart und wenig ausgegeben. Dadurch sinkt die Geldmenge, die im Umlauf ist. Die Preise sinken, was dazu führt, dass noch weniger Geld im Umlauf ist weil noch mehr gespart wird. Daraus ergibt sich eine Spirale, in der das Geld immer weniger wird und somit mehr wert wird.

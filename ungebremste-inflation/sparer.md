@@ -1,0 +1,1 @@
+﻿Für Sparer ist die Hyperinflation das schlimmste Szenario in Sachen Inflation, da der Sparer den Großteil seines Vermögens auf der Bank anlegt und nicht investiert, wird der extreme Wertverlust der Hyperinflation sein Vermögen fast wertlos machen.
