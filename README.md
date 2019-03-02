@@ -22,7 +22,7 @@ In this repo, all text files for the [i.FLATION](https://inflation.pdg-obersulm.
 
 ## Configuration
 
-```json
+```js
 {
 	"scenarios": [{
 		"name": "ScenarioA",
